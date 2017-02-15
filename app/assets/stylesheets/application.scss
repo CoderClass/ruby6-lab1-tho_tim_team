@@ -1,2 +1,3 @@
-@import "bootstrap";
-@import "home";
+@import "bootstrap"; // required by bootstrap
+@import "home";     // load css from home.scss
+@import "photos";   // load css from photos.scss
